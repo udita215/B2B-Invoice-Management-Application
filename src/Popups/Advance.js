@@ -7,7 +7,7 @@ import {
   FormControl,
   Input,
 } from "@mui/material";
-import AdvanSearchGrid from "../Components/AdvanSearchGrid";
+//import AdvanSearchGrid from "../Components/AdvanSearchGrid";
 const advanceData = [
   { placeholder: "Document ID", name: "doc_id", type: "" },
   { placeholder: "Invoice ID", name: "invoice_id", type: "" },
