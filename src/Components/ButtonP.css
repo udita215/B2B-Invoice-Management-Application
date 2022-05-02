@@ -1,0 +1,34 @@
+.stack {
+    position: relative;
+    width: 100vw;
+    height: 15vh;
+    
+    font-size: 2px o !important;
+}
+.button{
+padding: 4,4,4,4;
+width: 12vw;
+height: 6vh;
+margin-top: 2vh;
+
+}
+
+
+.b2{
+    border: 0;
+    border-radius: 0;
+
+    
+}
+.b3{
+    
+}
+.b4{
+    
+}
+.b5{
+    
+}
+.b6{
+    
+}

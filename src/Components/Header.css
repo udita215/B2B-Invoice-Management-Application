@@ -1,0 +1,22 @@
+.header-box {
+    height:15vh;
+     background-color: #2C4350; 
+
+display: flex;
+width: 100vw;
+justify-content: start;
+}
+
+.img_hrc {
+    position: absolute;
+margin-top: 3vh;
+    margin-right: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+}
+.img_product {
+   margin-left: 10px; 
+    margin-top: 2vh;
+}
